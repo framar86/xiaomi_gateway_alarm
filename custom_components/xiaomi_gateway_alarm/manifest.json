@@ -1,0 +1,14 @@
+{
+  "domain": "buderus",
+  "name": "buderus",
+  "version": "3.2.1",
+  "documentation": "https://github.com/framar86/buderus/",
+  "dependencies": [],
+  "codeowners": [
+    "@rospogrigio", "@postlund"
+  ],
+  "issue_tracker": "https://github.com/framar86/buderus/",
+  "requirements": [],
+  "config_flow": true,
+  "iot_class": "local_push"
+}
